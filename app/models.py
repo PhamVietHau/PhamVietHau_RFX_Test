@@ -1,1 +1,0 @@
-# SQLAlchemy or Tortoise models
